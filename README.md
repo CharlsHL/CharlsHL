@@ -1,5 +1,33 @@
 ### Hi there 👋
 
+
+I'm a self-taught passionate Full Stack developer from Argentina AR
+
+**About me**
+
+- 💼 Full Stack Engineer at [Educaria]
+
+
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" alt="graphql" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+
+
+| ------------- | ------------- |
+
+#### Top Repositories
+
+<br />
+<br />
+
+<a href="https://twitter.com/tomateunteyfue">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+
 <!--
 **CharlsHL/CharlsHL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
