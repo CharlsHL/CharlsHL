@@ -1,12 +1,9 @@
-<div align="center" ><
-
-      <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="200">
-
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="200" />
+    <h1 align="center">Hi 👋, I'm Charlie</h1>
+    <h3 align="center">  I'm a self-taught passionate Full Stack developer from Argentina AR I like teaching what I learn in my Social
+        Media</h3>
 </div>
-<p align="center">### Hi there 👋 </p>
-
-
-      I'm a self-taught passionate Full Stack developer from Argentina AR
 
 
 **About me**
