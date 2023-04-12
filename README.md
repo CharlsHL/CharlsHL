@@ -1,11 +1,17 @@
 <p align="center">### Hi there 👋 </p>
 
 
-I'm a self-taught passionate Full Stack developer from Argentina AR
+      I'm a self-taught passionate Full Stack developer from Argentina AR
+
+
 
 **About me**
 
 - 💼 Full Stack Engineer at [Educaria]
+
+
+
+
 
 
 
@@ -18,6 +24,9 @@ I'm a self-taught passionate Full Stack developer from Argentina AR
 
 
 | ------------- | ------------- |
+
+
+
 
 #### Top Repositories
 
