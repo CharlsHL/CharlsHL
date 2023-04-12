@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="center">### Hi there 👋 </p>
 
 
 I'm a self-taught passionate Full Stack developer from Argentina AR
