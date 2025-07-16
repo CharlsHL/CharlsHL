@@ -8,7 +8,7 @@
 
 **About me**
 
-- 💼 Full Stack Engineer at [Educaria]
+- 💼 Full Stack Engineer at [LetsMakeIt]
 
 
 
